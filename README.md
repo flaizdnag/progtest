@@ -1,1 +1,3 @@
 # progtest
+
+pierwszy commit
